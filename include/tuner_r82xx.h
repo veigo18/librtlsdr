@@ -84,6 +84,7 @@ struct r82xx_priv {
 	uint8_t				input;
 	int				has_lock;
 	int				init_done;
+	int				reg_cache;
 
 	/* Store current mode */
 	uint32_t			delsys;
