@@ -25,6 +25,8 @@ stamp-h1
 libtool
 Doxyfile
 
+build/
+
 .tarball-version
 .version
 
